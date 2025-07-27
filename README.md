@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi! I’m [Amshu Wagle]. I’m passionate about turning data into actionable insights and have hands-on experience with Python, SQL, and cloud tools.
+
+<img src="https://github.com/user-attachments/assets/17f0bf38-624a-44b6-ac85-16450c466a54" width="150" alt="Profile Picture">
+
+
+
+[LinkedIn](https://www.linkedin.com/in/amshu-wagle/) | Email: amshuw05@gmail.ccom
+
